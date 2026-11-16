@@ -43,7 +43,6 @@ public class AuthDAO {
         }
         catch (SQLException ex){
             System.err.println("Database exception: " + ex.getMessage());
-            System.err.println("Database exception: " + ex.getMessage());
             return false;
         }
     }
