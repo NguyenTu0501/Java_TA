@@ -1,0 +1,8 @@
+{
+  "task-1": "Tạo entity Account: accountId, username, password",
+  "task-2": "Cho Account các get/set và toString()",
+  "task-3": "Kết nối database bằng 1 trong 2 cách đã chỉ",
+  "task-4": "Gọi database lấy data và in ra màn hình các tài khoản",
+  "task-5": "Kiểm tra đăng nhập bằng username và password",
+  "task-6": "Áp dụng và Java Swing in ra Thành công/Không thành công của đăng nhập"
+}
