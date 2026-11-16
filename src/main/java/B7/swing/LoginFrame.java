@@ -90,6 +90,8 @@ public class LoginFrame extends JFrame {
             JOptionPane.showMessageDialog(this,
                     "Welcome, " + account.getFirstName() + " " + account.getLastName() + "!",
                     "Login Success", JOptionPane.INFORMATION_MESSAGE);
+            new AdminFrame().setVisible(true);
+            dispose();
         }
     }
 }
